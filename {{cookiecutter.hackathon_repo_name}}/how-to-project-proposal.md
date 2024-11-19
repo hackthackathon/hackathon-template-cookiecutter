@@ -4,7 +4,7 @@ For each project, submit a Project Proposal to this repository, identifying the 
 
 To submit topics of interest use the GitHub issue form below:
 
-{{ cookiecutter.hackathon_organization_github }}/{{ cookiecutter.hackathon_repo_name }}/issues/new/choose
+{{ cookiecutter.organization_github }}/{{ cookiecutter.hackathon_repo_name }}/issues/new/choose
 
 1. Select the project proposal issue template.
 
