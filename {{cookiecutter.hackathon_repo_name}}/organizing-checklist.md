@@ -2,9 +2,11 @@
 
 This is a brief checklist for organizers of hack weeks, based on the supplementary materials of the [hack week paper](http://www.pnas.org/content/early/2018/08/17/1717196115).
 
-Please make sure to run the `create-issues` action to create a checklist for all of this!
-
 **This is pulled from the [hackotron-template](https://github.com/hackthackathon/hackotron-template/blob/main/checklist.md)**
+
+:::{important}
+Make sure to run the `checklist-creation` action to create Github issues for all of this!
+:::
 
 ## How to Run the Checklist Creation
 
@@ -12,7 +14,7 @@ Please make sure to run the `create-issues` action to create a checklist for all
 ![Find Actions](images/select-actions.png)
 
 2. Select "Create Issues for Hackathon Timeline" on the left
-![Create Issues Action](images/select-actions.png)
+![Create Issues Action](images/select-create-issues.png)
 
 3. Run the Create Issues for Hackathon Timeline Action by selecting the button
 ![Run Issues Action](images/run-select-issues.png)
