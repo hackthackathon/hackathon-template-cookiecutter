@@ -1,0 +1,7 @@
+name: {{ cookiecutter.hackathon_repo_name }}-dev
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - mystmd
+  - cookiecutter
