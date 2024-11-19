@@ -1,8 +1,9 @@
 # {{ cookiecutter.hackathon_full_name }}
 
+**{{ cookiecutter.start_date }}** {% if cookiecutter.start_date != cookiecutter.end_date %} **-** **{{ cookiecutter.end_date}}** {% endif %}
+
 {{ cookiecutter.hackathon_short_description }}
 
-## {{ cookiecutter.start_date }} {% if cookiecutter.start_date != cookiecutter.end_date %} - {{ cookiecutter.end_date}} {% endif %}
 
 ## Instructors and Mentors
 
@@ -19,5 +20,3 @@ Please list your instructors and mentors below!
 | Time                | Topic                     | Presenter        |
 | :---:               |    :----:                 |    :---:         |
 | 09:00 AM - 09:30 AM | Welcome/Introduction      | {{ cookiecutter.lead_instructor_name }}      |
-| 09:30 AM - 10:00 AM | Tutorial 1                | Presenter 2                                  |
-
