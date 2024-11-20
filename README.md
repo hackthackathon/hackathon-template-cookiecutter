@@ -16,3 +16,5 @@ cookiecutter gh:mgrover1/hackathon-template-cookiecutter
 and answer the prompts.
 
 Once you create your repository, follow the create a github repository locally [instructions here](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
+
+To see an example of the cookiecutter in action: https://github.com/hackthackathon/hackathon-template-github
