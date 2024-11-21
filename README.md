@@ -10,7 +10,7 @@ pip install cookiecutter
 To create your own project (after installing cookiecutter), run:
 
 ```bash
-cookiecutter gh:mgrover1/hackathon-template-cookiecutter
+cookiecutter gh:hackthackathon/hackathon-template-cookiecutter
 ```
 
 and answer the prompts.
