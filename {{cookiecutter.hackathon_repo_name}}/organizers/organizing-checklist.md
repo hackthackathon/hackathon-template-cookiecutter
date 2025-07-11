@@ -11,13 +11,13 @@ Make sure to run the `checklist-creation` action to create Github issues for all
 ## How to Run the Checklist Creation
 
 1. Go to the top of your github repository and select "Actions"
-![Find Actions](images/select-actions.png)
+![Find Actions](../images/select-actions.png)
 
 2. Select "Create Issues for Hackathon Timeline" on the left
-![Create Issues Action](images/select-create-issues.png)
+![Create Issues Action](../images/select-create-issues.png)
 
 3. Run the Create Issues for Hackathon Timeline Action by selecting the button
-![Run Issues Action](images/run-select-issues.png)
+![Run Issues Action](../images/run-select-issues.png)
 
 These are suggestions that we’ve found helpful in the past. Feel free to adapt and change according to your needs!
 
