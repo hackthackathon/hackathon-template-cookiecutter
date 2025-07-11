@@ -10,37 +10,37 @@ In order for this to work, you will need to follow these steps:
 ### 1. Make sure Github Actions has permission to write to your repository
 
 This setting can be found under Settings -> Actions -> General -> Workflow Permissions
-![](images/github-workflow-permissions.png)
+![](../images/github-workflow-permissions.png)
 
 
 If you scroll to the bottom of the General Actions Permission, select "Read and write permissions", which will ensure your action is enabled correctly, publishing your content!
-![](images/github-workflow-read-write.png)
+![](../images/github-workflow-read-write.png)
 
 ### 2. Enable Github Pages for your repository
 
 Continue to scroll down your page, and select "Pages", which give you an option of where to gather your content from. 
 
 Select "Github Actions", which will pull the website from the action.
-![](images/github-action-deploymen.png)
+![](../images/github-action-deploymen.png)
 
 
 ### 3. Rerun the Action now that settings have been properly configured.
 
 Go to the top of your screen, and select Actions, which will have two options on the left. 
 
-![](images/view-action.png)
+![](../images/view-action.png)
 
 Select the "MyST Github Pages Deploy", and select the failing action.
 
-![](images/see-failing-action.png)
+![](../images/see-failing-action.png)
 
 Click the Re-run jobs tab at the top, and select re-run failed jobs
 
-![](images/rerun-failing-jobs.png)
+![](../images/rerun-failing-jobs.png)
 
 Click the Re-run jobs button, which will initiate the publishing.
 
-![](images/submit-failing-jobs.png)
+![](../images/submit-failing-jobs.png)
 
 ### 4. Make sure your pages link is linked on your repository
 
@@ -48,10 +48,10 @@ Go to the main page for your repository (ex. https://github.com/{{ cookiecutter.
 
 Notice the gear logo on the right - click on that! (this should be to the right of the About section)
 
-![](images/find-gear-logo.png)
+![](../images/find-gear-logo.png)
 
 Make sure the "Use your Github Pages website" is selected.
-![](images/use-github-pages-link.png)
+![](../images/use-github-pages-link.png)
 
 
 Follow that link, you are good to go! Congratulations on deploying your first hackathon website 🚀
@@ -111,12 +111,12 @@ To submit topics of interest use the GitHub issue form below:
 
 1. Select the project proposal issue template.
 
-![](images/select_project_proposal.png)
+![](../images/select_project_proposal.png)
 
 2. Populate the issue form:
 
-![](images/project_proposal_form.png)
+![](../images/project_proposal_form.png)
 
 3. Submit new issue
 
-![](images/submit_issue.png)
+![](../images/submit_issue.png)
